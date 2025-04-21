@@ -4,5 +4,5 @@
 
 <div style="text-align: right;">
 serverF1.py :سرور سوکتی
-clientF2.py — کلاینت کالینت
+clientF2.py :کلاینت کالینت
 </div>
